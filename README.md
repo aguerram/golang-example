@@ -1,6 +1,7 @@
 # Structure
 
-myapp/
+<pre>
+    myapp/
 ├── cmd/
 │   └── myapp/
 │       └── main.go
@@ -50,3 +51,5 @@ myapp/
     │   └── migrations.go
     └── redis/
         └── client.go
+
+</pre>
